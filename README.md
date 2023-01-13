@@ -110,7 +110,9 @@ If you like this project, kindly leave a comment below and share it with someone
 
 ## 🙏 Acknowledgments <a name="Microverse Inc."></a>
 
-I'm thankful to Microverse for providing a study platform which guided me through this project and to my coding partner at Microverse for the collaborative effort. 
+I'm thankful to <a href="https://www.microverse.org//">Microverse</a> for providing a study platform which guided me through this project 
+
+and to <a href="https://www.behance.net/adagio07//">Cindy Shin</a> the author of the original design
 
 
 <!-- FAQ (optional) -->
