@@ -62,7 +62,7 @@ body {
   height: 100%;
   z-index: 1;
   margin-top: 0;
-  padding: 5%;
+  /* padding: 5%; */
   row-gap: 5%;
   align-items: center;
   text-align: center;
@@ -87,7 +87,7 @@ ul {
   margin: 0;
   padding-top: 3%;
   color: rgb(4, 11, 48);
-  width: 90vw;
+  /* width: 90vw; */
 }
 
 .main-title {
@@ -97,8 +97,6 @@ ul {
   background: url(./img/blue.jpg);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  width: 90vw;
-  word-wrap: break-word;
 }
 
 .about-title {
@@ -106,6 +104,7 @@ ul {
   font-weight: 900;
   text-transform: uppercase;
   color: #4d42e3;
+  text-align: center;
 }
 
 .date,
@@ -260,6 +259,11 @@ a:active {
   align-items: center;
   row-gap: 15px;
   padding: 5%;
+  margin-bottom: 4rem;
+}
+
+.about-titles {
+    width: 80%;
 }
 
 .join-btn {
@@ -316,10 +320,17 @@ a:active {
   background-color: whitesmoke;
   border: solid 5px white;
   padding: 3vh;
-  width: 65vw;
+  /* width: 65vw; */
   font-weight: 600;
   height: 100%;
   line-height: 5vh;
+  text-align: center;
+  mar
+}
+
+.home-title {
+    /* background-color: aqua; */
+    width: 80%;
 }
 
 .btn {
