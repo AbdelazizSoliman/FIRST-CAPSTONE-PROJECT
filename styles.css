@@ -62,6 +62,7 @@ body {
   height: 100%;
   z-index: 1;
   margin-top: 0;
+
   /* padding: 5%; */
   row-gap: 5%;
   align-items: center;
@@ -87,6 +88,7 @@ ul {
   margin: 0;
   padding-top: 3%;
   color: rgb(4, 11, 48);
+
   /* width: 90vw; */
 }
 
@@ -263,7 +265,7 @@ a:active {
 }
 
 .about-titles {
-    width: 80%;
+  width: 80%;
 }
 
 .join-btn {
@@ -320,17 +322,17 @@ a:active {
   background-color: whitesmoke;
   border: solid 5px white;
   padding: 3vh;
+
   /* width: 65vw; */
   font-weight: 600;
   height: 100%;
   line-height: 5vh;
   text-align: center;
-  mar
 }
 
 .home-title {
-    /* background-color: aqua; */
-    width: 80%;
+  /* background-color: aqua; */
+  width: 80%;
 }
 
 .btn {
