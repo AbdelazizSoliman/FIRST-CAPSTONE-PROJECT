@@ -1,6 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
 
-
 html {
   box-sizing: border-box;
 }
@@ -110,19 +109,18 @@ ul {
   text-align: center;
 }
 
-.date
- {
+.date {
   color: black;
   font-weight: 800;
   font-size: 30px;
 }
 
 .address {
-    margin-bottom: 10%;
-    color: black;
-    font-size: 20px;
-    margin-top: -1%;
-    font-weight: 600;
+  margin-bottom: 10%;
+  color: black;
+  font-size: 20px;
+  margin-top: -1%;
+  font-weight: 600;
 }
 
 .about-img {
@@ -152,7 +150,7 @@ ul {
   column-gap: 5%;
   align-items: center;
   justify-content: space-around;
-  background-color: wh;
+  background-color: white;
 }
 
 .logo-img {
@@ -224,17 +222,18 @@ a:active {
 }
 
 .speaker-text2 {
-    font-size: 14px;
-    color: black;
-    overflow-wrap: break-word;
-    margin-right: 10%;
+  font-size: 14px;
+  color: black;
+  overflow-wrap: break-word;
+  margin-right: 10%;
 }
 
 .line2 {
-    margin: 0;
-    width: 45px;
-    border-top: 1px solid #beb8b7;
-  }
+  margin: 0;
+  width: 45px;
+  border-top: 1px solid #beb8b7;
+}
+
 .nav-link {
   margin-left: 5%;
   color: white;
@@ -271,7 +270,7 @@ a:active {
 .program-title {
   color: rgb(184, 179, 179);
   font-weight: lighter;
-  padding-top:0%;
+  padding-top: 0%;
 }
 
 .program-text1 {
@@ -402,7 +401,7 @@ a:active {
   width: 43px;
   border-top: 1px solid #ef513c;
   margin-bottom: 3%;
-} 
+}
 
 .about-logo {
   display: flex;
