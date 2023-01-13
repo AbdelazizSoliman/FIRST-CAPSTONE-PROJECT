@@ -55,7 +55,7 @@ const speakers = [
     name: 'Ahmed Bash',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Maximenatus esse saepe',
-    speakerImage: './img/Ahmed-Bash.png',
+    speakerImage: './img/Ahmed-Bash_chess_style.png',
     publish:
       'Lorem s ex corporis ratione voluptatem enim vel voluptas maximefacere incidun',
   },
@@ -64,7 +64,7 @@ const speakers = [
     name: 'Amir El Masry',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Maximenatus esse saepe',
-    speakerImage: './img/Amir-Masry.png',
+    speakerImage: './img/Amir-Masry_chess_style.png',
     publish:
       'Lorem s ex corporis ratione voluptatem enim vel voluptas maximefacere incidun',
   },
@@ -73,7 +73,7 @@ const speakers = [
     name: 'Habiba Marzouk',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Maximenatus esse saepe',
-    speakerImage: './img/Haiba.png',
+    speakerImage: './img/Haiba_chess_style.png',
     publish:
       'Lorem s ex corporis ratione voluptatem enim vel voluptas maximefacere incidun',
   },
@@ -82,7 +82,7 @@ const speakers = [
     name: 'Nour Nabawy',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Maximenatus esse saepe',
-    speakerImage: './img/Noar-Nabawy.png',
+    speakerImage: './img/Noar-Nabawy_chess_style.png',
     publish:
       'Lorem s ex corporis ratione voluptatem enim vel voluptas maximefacere incidun',
   },
