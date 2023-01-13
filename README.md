@@ -41,7 +41,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 Click here to see a live demo of this project online: <li><a href="https://abdelazizsoliman.github.io/FIRST-CAPSTONE-PROJECT//">Live Demo</a></li>
 
-Click here to see a video presentation on LOOM: <li><a href="https://www.loom.com/share/a0e0304dbc0740c5991d6196243f7e60//">Show video</a></li>
+Click here to see a video presentation on LOOM: <li><a href="https://www.loom.com/share/a0e0304dbc0740c5991d6196243f7e60">Show video</a></li>
 
 <!-- GETTING STARTED -->
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -68,7 +68,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone[ (https://github.com/AbdelazizSoliman/Menu-mobile.git)]
+  git clone[ (https://github.com/AbdelazizSoliman/FIRST-CAPSTONE-PROJECT.git)]
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
