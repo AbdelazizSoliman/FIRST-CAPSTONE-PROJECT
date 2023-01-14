@@ -124,7 +124,7 @@ ul {
 }
 
 .about-img {
-  width: 80%;
+  width: 50%;
 }
 
 .page2 {
@@ -206,6 +206,7 @@ ul {
   display: flex;
   column-gap: 5%;
   width: 100%;
+  margin-bottom: 6%;
 }
 
 a:link,
@@ -268,7 +269,7 @@ a:active {
 }
 
 .program-title {
-  color: rgb(184, 179, 179);
+  color: white;
   font-weight: lighter;
   padding-top: 0%;
 }
@@ -349,11 +350,11 @@ a:active {
   font-weight: 800;
   height: 100%;
   line-height: 5vh;
+  width: 50%;
   text-align: left;
 }
 
 .home-title {
-  /* background-color: aqua; */
   width: 80%;
 }
 
@@ -399,7 +400,7 @@ a:active {
 
 .line4 {
   width: 43px;
-  border-top: 1px solid #ef513c;
+  border-top: 1px solid red;
   margin-bottom: 3%;
 }
 
@@ -502,6 +503,7 @@ a:active {
     align-items: center;
     width: 80%;
     justify-content: center;
+    margin: 0 50rem;
   }
 
   .program-link {
