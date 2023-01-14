@@ -105,7 +105,7 @@ ul {
   font-size: 35px;
   font-weight: 900;
   text-transform: uppercase;
-  color: #4d42e3;
+  color: #ef513c;
   text-align: center;
 }
 
@@ -351,6 +351,17 @@ a:active {
   height: 100%;
   line-height: 5vh;
   width: 50%;
+  text-align: left;
+}
+
+.about-paragraph {
+  background-color: rgb(233, 230, 230);
+  color: rgba(24, 22, 22, 0.884);
+  border: solid 5px white;
+  padding: 3vh;
+  font-weight: 800;
+  height: 100%;
+  line-height: 5vh;
   text-align: left;
 }
 
