@@ -41,7 +41,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 Click here to see a live demo of this project online: <li><a href="https://abdelazizsoliman.github.io/FIRST-CAPSTONE-PROJECT//">Live Demo</a></li>
 
-Click here to see a video presentation on LOOM: <li><a href="https://www.loom.com/share/a0e0304dbc0740c5991d6196243f7e60">Show video</a></li>
+Click here to see a video presentation on LOOM: <li><a href="https://www.loom.com/share/783a87ff2475407aac8010db66b91bed">Show video</a></li>
 
 <!-- GETTING STARTED -->
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -110,7 +110,9 @@ If you like this project, kindly leave a comment below and share it with someone
 
 ## 🙏 Acknowledgments <a name="Microverse Inc."></a>
 
-I'm thankful to Microverse for providing a study platform which guided me through this project and to my coding partner at Microverse for the collaborative effort. 
+I'm thankful to <a href="https://www.microverse.org//">Microverse</a> for providing a study platform which guided me through this project 
+
+and to <a href="https://www.behance.net/adagio07//">Cindy Shin</a> the author of the original design
 
 
 <!-- FAQ (optional) -->
